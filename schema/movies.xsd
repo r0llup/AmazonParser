@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xdb="http://xmlns.oracle.com/xdb" xdb:storeVarrayAsTable="true" version="1.0">
+	<xs:element name="movies" type="moviestype" xdb:defaultTable="XDBMOVIES"/>
+		<xs:complexType name="moviestype" xdb:SQLType="MOVIESTYPE">
+			<xs:sequence>
+				<xs:element name="movie" type="movietype" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+		<xs:complexType name="movietype" xdb:SQLType="MOVIETYPE">
+			<xs:sequence>
+				<xs:element name="title" type="xs:string"/>
+				<xs:element name="asin" type="xs:string"/>
+				<xs:element name="price" type="xs:string"/>
+				<xs:element name="devise" type="xs:string"/>
+				<xs:element name="image" type="xs:string"/>
+				<xs:element name="actors" type="xs:string"/>
+				<xs:element name="directors" type="xs:string"/>
+				<xs:element name="studio" type="xs:string"/>
+				<xs:element name="format" type="xs:string"/>
+				<xs:element name="discs" type="xs:string"/>
+				<xs:element name="languages" type="xs:string"/>
+				<xs:element name="subtitles" type="xs:string"/>
+				<xs:element name="runtime" type="xs:string"/>
+				<xs:element name="releaseDate" type="xs:string"/>
+			</xs:sequence>
+		</xs:complexType>
+</xs:schema>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<books xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://10.59.27.3:8080/home/BLANPAOL/books/books.xsd">
+<book>
+<title>La couleur des sentiments</title>
+<asin>2742792910</asin>
+<price>22,61</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51htfG19ibL._SL500_AA240_.jpg</image>
+<authors>Kathryn Stockett,Pierre Girard,</authors>
+<publisher>Jacqueline Chambon Editions</publisher>
+<format>Broché</format>
+<pages>525 pages</pages>
+<releaseDate>3 septembre 2010</releaseDate>
+</book>
+<book>
+<title>La planète des sages : Encyclopédie mondiale des philosophes et des philosophies Tome 1</title>
+<asin>2205068520</asin>
+<price>18,95</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51rJ0XgJATL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA240_SH20_OU08_.jpg</image>
+<authors>Pépin,Jul,</authors>
+<publisher>DARGAUD</publisher>
+<format>Cartonné</format>
+<pages>80 pages</pages>
+<releaseDate>26 août 2011</releaseDate>
+</book>
+<book>
+<title>Rien ne s'oppose à la nuit</title>
+<asin>2709635798</asin>
+<price>18,05</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/41IZnGU1vEL._SL500_AA240_.jpg</image>
+<authors>Delphine Vigan (de),</authors>
+<publisher>JC Lattès</publisher>
+<format>Broché</format>
+<pages>440 pages</pages>
+<releaseDate>17 août 2011</releaseDate>
+</book>
+<book>
+<title>XIII, Tome 20 : Le jour du Mayflower</title>
+<asin>2505012946</asin>
+<price>11,35</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51eiBbDhwvL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA240_SH20_OU08_.jpg</image>
+<authors>Yves Sente,Youri Jigounov,Jean Van Hamme,</authors>
+<publisher>DARGAUD</publisher>
+<format>Relié</format>
+<pages>48 pages</pages>
+<releaseDate>18 novembre 2011</releaseDate>
+</book>
+<book>
+<title>Cette nuit-là</title>
+<asin>229002354X</asin>
+<price>6,74</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51bHOdbyjVL._SL500_AA240_.jpg</image>
+<authors>Linwood Barclay,</authors>
+<publisher>J'AI LU</publisher>
+<format>Broché</format>
+<pages>474 pages</pages>
+<releaseDate>2 février 2011</releaseDate>
+</book>
+<book>
+<title>Quai d'Orsay, tome 2 : Chroniques diplomatiques</title>
+<asin>220506679X</asin>
+<price>16,10</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51yhVJE7UmL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA240_SH20_OU08_.jpg</image>
+<authors>Christophe Blain,Abel Lanzac,</authors>
+<publisher>DARGAUD</publisher>
+<format>Cartonné</format>
+<pages>104 pages</pages>
+<releaseDate>2 décembre 2011</releaseDate>
+</book>
+<book>
+<title>Steve Jobs</title>
+<asin>2709638320</asin>
+<price>23,75</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/41ZStSfB6kL._SL500_AA240_.jpg</image>
+<authors>Walter Isaacson,</authors>
+<publisher>JC Lattès</publisher>
+<format>Broché</format>
+<pages>668 pages</pages>
+<releaseDate>25 octobre 2011</releaseDate>
+</book>
+<book>
+<title>La délicatesse</title>
+<asin>2070440257</asin>
+<price>5,89</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/41Uo1Wwz6zL._SL500_AA240_.jpg</image>
+<authors>David Foenkinos,</authors>
+<publisher>Gallimard</publisher>
+<format>Broché</format>
+<pages>209 pages</pages>
+<releaseDate>20 janvier 2011</releaseDate>
+</book>
+<book>
+<title>1001 expressions preférées des français</title>
+<asin>2360750747</asin>
+<price>23,65</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51V7fmEZfAL._SL500_AA240_.jpg</image>
+<authors>Georges Planelles,</authors>
+<publisher>Editions de l'Opportun</publisher>
+<format>Relié</format>
+<pages>1181 pages</pages>
+<releaseDate>3 novembre 2011</releaseDate>
+</book>
+<book>
+<title>L'hermine était pourpre - Prix du Quai des Orfèvres 2012</title>
+<asin>2213665958</asin>
+<price>8,45</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51qRbdZZhUL._SL500_AA240_.jpg</image>
+<authors>Pierre Borromée,</authors>
+<publisher>Fayard</publisher>
+<format>Broché</format>
+<pages>384 pages</pages>
+<releaseDate>23 novembre 2011</releaseDate>
+</book>
+<book>
+<title>Quai d'Orsay Tome 1 : Le Conseiller</title>
+<asin>2205061321</asin>
+<price>15,15</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/61ILjbJqwhL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA240_SH20_OU08_.jpg</image>
+<authors>Christophe Blain,Abel Lanzac,</authors>
+<publisher>DARGAUD</publisher>
+<format>Relié</format>
+<pages>96 pages</pages>
+<releaseDate>7 mai 2010</releaseDate>
+</book>
+<book>
+<title>Indignez-vous !</title>
+<asin>291193976X</asin>
+<price>2,85</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/41rEhcGHY-L._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA240_SH20_OU08_.jpg</image>
+<authors>Stéphane Hessel,</authors>
+<publisher>Indigène</publisher>
+<format>Broché</format>
+<pages>32 pages</pages>
+<releaseDate>21 octobre 2010</releaseDate>
+</book>
+<book>
+<title>L'art français de la guerre Prix Goncourt 2011</title>
+<asin>207013458X</asin>
+<price>19,95</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/41Sjkx9e2pL._SL500_AA240_.jpg</image>
+<authors>Alexis Jenni,</authors>
+<publisher>Gallimard</publisher>
+<format>Broché</format>
+<pages>633 pages</pages>
+<releaseDate>18 août 2011</releaseDate>
+</book>
+<book>
+<title>Limonov Prix Renaudot 2011</title>
+<asin>2818014050</asin>
+<price>19,00</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/41MdcHOtG%2BL._SL500_AA240_.jpg</image>
+<authors>Emmanuel Carrère,</authors>
+<publisher>POL / PETIT POL</publisher>
+<format>Broché</format>
+<pages>488 pages</pages>
+<releaseDate>1 septembre 2011</releaseDate>
+</book>
+<book>
+<title>Je t'aimerai toujours, quoi qu'il arrive...</title>
+<asin>2013913281</asin>
+<price>4,94</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51nhwuCFEIL._SL500_AA240_.jpg</image>
+<authors>Debi Gliori,Marie-France Floury,</authors>
+<publisher>GAUTIER-LANGUEREAU</publisher>
+<format>Broché</format>
+<pages>28 pages</pages>
+<releaseDate>8 mars 2007</releaseDate>
+</book>
+<book>
+<title>Le passager</title>
+<asin>2226221328</asin>
+<price>23,65</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51lq60OTHEL._SL500_AA240_.jpg</image>
+<authors>Jean-Christophe Grangé,</authors>
+<publisher>Editions Albin Michel</publisher>
+<format>Broché</format>
+<pages>750 pages</pages>
+<releaseDate>31 août 2011</releaseDate>
+</book>
+<book>
+<title>Anagrammes renversantes ou Le sens caché du monde</title>
+<asin>2081272210</asin>
+<price>9,50</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/41iM5gxWOhL._SL500_AA240_.jpg</image>
+<authors>Etienne Klein,Jacques Perry-Salkow,Donatien Mary,</authors>
+<publisher>Flammarion</publisher>
+<format>Poche</format>
+<pages>109 pages</pages>
+<releaseDate>2 novembre 2011</releaseDate>
+</book>
+<book>
+<title>Conversation avec Claude Askolovitch</title>
+<asin>2259201350</asin>
+<price>17,96</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51UhPQ-ZqML._SL500_AA240_.jpg</image>
+<authors>Patrick Bruel,</authors>
+<publisher>PLON</publisher>
+<format>Broché</format>
+<pages>180 pages</pages>
+<releaseDate>23 novembre 2011</releaseDate>
+</book>
+<book>
+<title>Le second souffle suivi du Diable gardien</title>
+<asin>2227483377</asin>
+<price>14,16</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51UlWZAujdL._SL500_AA240_.jpg</image>
+<authors>Philippe Pozzo di Borgo,</authors>
+<publisher>Bayard Jeunesse</publisher>
+<format>Broché</format>
+<pages>282 pages</pages>
+<releaseDate>13 octobre 2011</releaseDate>
+</book>
+<book>
+<title>Dans les forêts de Sibérie - Prix Médicis essai 2011</title>
+<asin>207012925X</asin>
+<price>17,01</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/41J21FFzruL._SL500_AA240_.jpg</image>
+<authors>Sylvain Tesson,</authors>
+<publisher>Editions Gallimard</publisher>
+<format>Unknown</format>
+<pages>Unknown</pages>
+<releaseDate>1 septembre 2011</releaseDate>
+</book>
+</books>

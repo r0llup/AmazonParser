@@ -1,0 +1,9 @@
+TODO
+같같
+xdb:SqlColType
+triggers (INSERT_BOOK, INSERT_MOVIE, INSERT_MUSIC)
+
+DONE
+같같
+storeVarrayAsTable=false
+base64 (BLOB)

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<movies xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://10.59.27.3:8080/home/BLANPAOL/movies/movies.xsd">
+<movie>
+<title>Harry Potter et les Reliques de la Mort, 2e partie - Edition spéciale 2 DVD</title>
+<asin>B00567I0KE</asin>
+<price>19,98</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/518UxwF4DqL._SL500_AA240_.jpg</image>
+<actors>Daniel Radcliffe,Emma Watson,</actors>
+<directors>David Yates,</directors>
+<studio>Warner Home Video</studio>
+<format>DVD</format>
+<discs>2</discs>
+<languages>Allemand,Français,Néerlandais,Anglais,</languages>
+<subtitles>Français,Néerlandais,</subtitles>
+<runtime>125 minutes</runtime>
+<releaseDate>16 novembre 2011</releaseDate>
+</movie>
+<movie>
+<title>Star Wars - L'intégrale de la saga - Coffret Collector 9 Blu-ray [Blu-ray]</title>
+<asin>B004HYGSXS</asin>
+<price>69,98</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/41DT6iOmnCL._SL500_AA240_.jpg</image>
+<actors>Harrison Ford,Mark Hamill,</actors>
+<directors>Georges Lucas,Irvin Kershner,</directors>
+<studio>Fox Pathé Europa</studio>
+<format>Blu-ray</format>
+<discs>9</discs>
+<languages>Anglais,Français,</languages>
+<subtitles>Anglais,Français,</subtitles>
+<runtime>805 minutes</runtime>
+<releaseDate>14 septembre 2011</releaseDate>
+</movie>
+<movie>
+<title>Cars 2</title>
+<asin>B00504TCCI</asin>
+<price>15,98</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51-c-Z8JopL._SL500_AA240_.jpg</image>
+<actors>Owen Wilson,John Ratzenberger,</actors>
+<directors>Brad Lewis,John Lasseter,</directors>
+<studio>Walt Disney Home Entertainment</studio>
+<format>DVD</format>
+<discs>1</discs>
+<languages>Français,Anglais,</languages>
+<subtitles>Français,Anglais,</subtitles>
+<runtime>102 minutes</runtime>
+<releaseDate>30 novembre 2011</releaseDate>
+</movie>
+<movie>
+<title>Harry Potter et les reliques de la mort, 1ère et 2e partie - Bi-pack DVD 4 DVD (2 DVD et 2 DVD bonus)</title>
+<asin>B005K8S8LK</asin>
+<price>34,98</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51HY9jOnZ1L._SL500_AA240_.jpg</image>
+<actors>Daniel Grint Rupert Watson Emma Radcliffe,</actors>
+<directors>David Yates,</directors>
+<studio>Warner Bros.</studio>
+<format>DVD</format>
+<discs>4</discs>
+<languages>Allemand,Néerlandais belge,Français,Néerlandais,Anglais,</languages>
+<subtitles>Néerlandais belge,Français,Néerlandais,</subtitles>
+<runtime>265 minutes</runtime>
+<releaseDate>16 novembre 2011</releaseDate>
+</movie>
+<movie>
+<title>Les caméras planquées de François Damiens - Intégrale - Edition 2 DVD</title>
+<asin>B005IQXVZM</asin>
+<price>24,99</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51yH2P%2Bf4LL._SL500_AA240_.jpg</image>
+<actors>François Damiens,</actors>
+<directors>François Damiens,</directors>
+<studio>StudioCanal</studio>
+<format>DVD</format>
+<discs>2</discs>
+<languages>Français,</languages>
+<subtitles>Unknown,</subtitles>
+<runtime>120 minutes</runtime>
+<releaseDate>22 novembre 2011</releaseDate>
+</movie>
+<movie>
+<title>Braquo, Saison 2 - Coffret 3 DVD</title>
+<asin>B005OQA9Q0</asin>
+<price>19,48</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51ZK0KhsVEL._SL500_AA240_.jpg</image>
+<actors>Jean-Hugues Anglade,Nicolas Duvauchelle,</actors>
+<directors>Philippe Haim,Eric Valette,</directors>
+<studio>StudioCanal</studio>
+<format>DVD</format>
+<discs>3</discs>
+<languages>Français,</languages>
+<subtitles>Unknown,</subtitles>
+<runtime>416 minutes</runtime>
+<releaseDate>15 décembre 2011</releaseDate>
+</movie>
+<movie>
+<title>Le Discours d'un Roi (Oscar® 2011 du Meilleur Film, Meilleur Réalisateur &amp; Meilleur Acteur)</title>
+<asin>B004LY8T18</asin>
+<price>12,98</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51%2B3FgcSJ2L._SL500_AA240_.jpg</image>
+<actors>Colin firth,Helena Bonham Carter,</actors>
+<directors>Tom Hooper,</directors>
+<studio>Wild Side Video</studio>
+<format>DVD</format>
+<discs>2</discs>
+<languages>Français,Anglais,</languages>
+<subtitles>Français,</subtitles>
+<runtime>118 minutes</runtime>
+<releaseDate>7 juin 2011</releaseDate>
+</movie>
+<movie>
+<title>Twilight : chapitres 1 à 3 - Coffret 3 DVD</title>
+<asin>B0042JSH1O</asin>
+<price>19,98</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/41ItO4qaKvL._SL500_AA240_.jpg</image>
+<actors>Robert Pattinson,Taylor Lautner,</actors>
+<directors>David Slade,</directors>
+<studio>M6 Vidéo</studio>
+<format>DVD</format>
+<discs>3</discs>
+<languages>Français,Anglais,</languages>
+<subtitles>Français,</subtitles>
+<runtime>124 minutes</runtime>
+<releaseDate>3 décembre 2010</releaseDate>
+</movie>
+<movie>
+<title>Les Schtroumpfs - Edition simple</title>
+<asin>B005EKHTT6</asin>
+<price>15,98</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51sKyFxfg6L._SL500_AA240_.jpg</image>
+<actors>Neil Patrick Harris,Jayma Mays,</actors>
+<directors>Raja Gosnell,</directors>
+<studio>Sony Pictures Entertainment</studio>
+<format>DVD</format>
+<discs>1</discs>
+<languages>Français,Anglais,Néerlandais belge,Néerlandais,</languages>
+<subtitles>Français,Anglais,Arabe,Néerlandais,</subtitles>
+<runtime>98 minutes</runtime>
+<releaseDate>3 décembre 2011</releaseDate>
+</movie>
+<movie>
+<title>La Planète des Singes : Les Origines - Edition simple</title>
+<asin>B005DS9YC4</asin>
+<price>15,98</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/41ATX31kRvL._SL500_AA240_.jpg</image>
+<actors>James Franco,Freida Pinto,</actors>
+<directors>Rupert Wyatt,</directors>
+<studio>Fox Pathé Europa</studio>
+<format>DVD</format>
+<discs>1</discs>
+<languages>Français,Anglais,</languages>
+<subtitles>Français,Anglais,</subtitles>
+<runtime>100 minutes</runtime>
+<releaseDate>10 décembre 2011</releaseDate>
+</movie>
+<movie>
+<title>La Planète des Singes : Les Origines - Edition collector Boîtier métal (Blu-ray + DVD + Copie digitale + DVD Bonus + Senitype) - Inclus 1h de contenu inédit  [Blu-ray]</title>
+<asin>B005DS9YIS</asin>
+<price>23,98</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51pfunf52TL._SL500_AA240_.jpg</image>
+<actors>James Franco,Freida Pinto,</actors>
+<directors>Rupert Wyatt,</directors>
+<studio>Fox Pathé Europa</studio>
+<format>Blu-ray</format>
+<discs>3</discs>
+<languages>Français,Anglais,</languages>
+<subtitles>Français,Anglais,</subtitles>
+<runtime>105 minutes</runtime>
+<releaseDate>10 décembre 2011</releaseDate>
+</movie>
+<movie>
+<title>La Planète des Singes : Les Origines - Combo Blu-ray + DVD + Copie Digitale [Blu-ray]</title>
+<asin>B005DS9YDS</asin>
+<price>19,98</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51LMJsz3txL._SL500_AA240_.jpg</image>
+<actors>James Franco,Freida Pinto,</actors>
+<directors>Rupert Wyatt,</directors>
+<studio>Fox Pathé Europa</studio>
+<format>Blu-ray</format>
+<discs>2</discs>
+<languages>Français,Anglais,</languages>
+<subtitles>Français,Anglais,</subtitles>
+<runtime>105 minutes</runtime>
+<releaseDate>10 décembre 2011</releaseDate>
+</movie>
+<movie>
+<title>Desperate Housewives, saison 7 - Coffret 6 DVD</title>
+<asin>B005HH4Y76</asin>
+<price>39,98</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/519ZMCy990L._SL500_AA240_.jpg</image>
+<actors>Teri Hatcher,Felicity Huffman,</actors>
+<directors>David Grossman,</directors>
+<studio>Walt Disney Home Entertainment</studio>
+<format>DVD</format>
+<discs>6</discs>
+<languages>Français,Anglais,</languages>
+<subtitles>Français,Anglais,</subtitles>
+<runtime>970 minutes</runtime>
+<releaseDate>7 décembre 2011</releaseDate>
+</movie>
+<movie>
+<title>Coffret Trilogie Le Seigneur des Anneaux - Intégrale Versions longues - 15 disques  - Edition spéciale limitée 2011 [Blu-ray]</title>
+<asin>B004VFYNYE</asin>
+<price>57,98</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/41S2MxwcA3L._SL500_AA240_.jpg</image>
+<actors>Viggo Mortensen,Elijah Wood,</actors>
+<directors>Peter Jackson,</directors>
+<studio>Metropolitan</studio>
+<format>Blu-ray</format>
+<discs>15</discs>
+<languages>Français,Anglais,</languages>
+<subtitles>Français,</subtitles>
+<runtime>681 minutes</runtime>
+<releaseDate>28 juin 2011</releaseDate>
+</movie>
+<movie>
+<title>Raiponce</title>
+<asin>B004CR4NV4</asin>
+<price>12,98</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51iqI4vft0L._SL500_AA240_.jpg</image>
+<actors>Mandy Moore,Zachary Levi,</actors>
+<directors>Byron Howard,</directors>
+<studio>Walt Disney Studios Home Entertainment</studio>
+<format>DVD</format>
+<discs>1</discs>
+<languages>Français,Anglais,</languages>
+<subtitles>Français,Anglais,</subtitles>
+<runtime>96 minutes</runtime>
+<releaseDate>1 avril 2011</releaseDate>
+</movie>
+<movie>
+<title>Laurent Ruquier et ses humoristes, le Best of "On ne demande qu'a en rire"</title>
+<asin>B005UG7LPG</asin>
+<price>19,98</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51yN%2BrZZTAL._SL500_AA240_.jpg</image>
+<actors>Laurent Ruquier,</actors>
+<directors/>
+<studio>France Télévisions Distribution</studio>
+<format>DVD</format>
+<discs>1</discs>
+<languages>Français,</languages>
+<subtitles>Français,</subtitles>
+<runtime>130 minutes</runtime>
+<releaseDate>1 décembre 2011</releaseDate>
+</movie>
+<movie>
+<title>Jamel - Tout sur Jamel</title>
+<asin>B005CCJRE6</asin>
+<price>15,89</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/41TUy%2BWuE9L._SL500_AA240_.jpg</image>
+<actors>Jamel Debbouze,</actors>
+<directors/>
+<studio>TF1 Vidéo</studio>
+<format>DVD</format>
+<discs>1</discs>
+<languages>Français,</languages>
+<subtitles>Français,</subtitles>
+<runtime>96 minutes</runtime>
+<releaseDate>16 novembre 2011</releaseDate>
+</movie>
+<movie>
+<title>Laurent Gerra (&amp; le grand orchestre de Fred Manoukian) au Palais des Sports</title>
+<asin>B005IQXTNQ</asin>
+<price>18,89</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51QKbvj0eyL._SL500_AA240_.jpg</image>
+<actors>Laurent Gerra,</actors>
+<directors/>
+<studio>Universal Pictures</studio>
+<format>DVD</format>
+<discs>1</discs>
+<languages>Français,</languages>
+<subtitles>Unknown,</subtitles>
+<runtime>120 minutes</runtime>
+<releaseDate>3 novembre 2011</releaseDate>
+</movie>
+<movie>
+<title>Captain America : First Avenger - Combo Blu-ray + DVD [Blu-ray]</title>
+<asin>B005GYJPZ6</asin>
+<price>19,98</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51hii03ia1L._SL500_AA240_.jpg</image>
+<actors>Chris Evans,Hayley Atwell,</actors>
+<directors>Joe Johnston,</directors>
+<studio>Paramount</studio>
+<format>Blu-ray</format>
+<discs>2</discs>
+<languages>Espagnol,Allemand,Français,Italien,Anglais,</languages>
+<subtitles>Espagnol,Allemand,Français,Italien,Anglais,Danois,Finnois,Néerlandais,Norvégien,Suédois,</subtitles>
+<runtime>124 minutes</runtime>
+<releaseDate>17 décembre 2011</releaseDate>
+</movie>
+<movie>
+<title>Pirates des Caraïbes : la fontaine de jouvence</title>
+<asin>B004NBXU0Y</asin>
+<price>15,98</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51dIFmjXEJL._SL500_AA240_.jpg</image>
+<actors>Johnny Depp,Penélope Cruz,</actors>
+<directors>Rob Marshall,</directors>
+<studio>Walt Disney Studios Home Entertainment</studio>
+<format>DVD</format>
+<discs>1</discs>
+<languages>Français,Anglais,</languages>
+<subtitles>Français,Anglais,</subtitles>
+<runtime>130 minutes</runtime>
+<releaseDate>21 septembre 2011</releaseDate>
+</movie>
+</movies>

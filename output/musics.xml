@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<musics xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://10.59.27.3:8080/home/BLANPAOL/musics/musics.xsd">
+<music>
+<title>21</title>
+<asin>B004AB2JVI</asin>
+<price>10,99</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51Dizh1i1VL._SL500_AA240_.jpg</image>
+<artists>Adele,</artists>
+<label>Beggars Banquet</label>
+<discs>1</discs>
+<releaseDate>24 janvier 2011</releaseDate>
+</music>
+<music>
+<title>Lioness: Hidden Treasures</title>
+<asin>B0061JPYX2</asin>
+<price>14,85</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51%2BPSX2-OAL._SL500_AA240_.jpg</image>
+<artists>Amy Winehouse,</artists>
+<label>Island</label>
+<discs>1</discs>
+<releaseDate>5 décembre 2011</releaseDate>
+</music>
+<music>
+<title>Mylo Xyloto</title>
+<asin>B0053YGYO4</asin>
+<price>14,99</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51uAqL4pA4L._SL500_AA240_.jpg</image>
+<artists>Coldplay,</artists>
+<label>EMI</label>
+<discs>1</discs>
+<releaseDate>24 octobre 2011</releaseDate>
+</music>
+<music>
+<title>Lys and Love</title>
+<asin>B005NNJLIG</asin>
+<price>15,99</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/41N7UfUkpFL._SL500_AA240_.jpg</image>
+<artists>Laurent Voulzy,</artists>
+<label>Columbia</label>
+<discs>1</discs>
+<releaseDate>28 novembre 2011</releaseDate>
+</music>
+<music>
+<title>Soyons Désinvoltes, N'Ayons L'Air De Rien - Édition Limitée (Best Of - 2 CD + DVD)</title>
+<asin>B005Z4D2JC</asin>
+<price>18,99</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51eiL6Rg4CL._SL500_AA240_.jpg</image>
+<artists>Noir Desir,</artists>
+<label>Barclay</label>
+<discs>3</discs>
+<releaseDate>28 novembre 2011</releaseDate>
+</music>
+<music>
+<title>Les Bénéfices du doute</title>
+<asin>B005X0NS7E</asin>
+<price>14,99</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51miOLqDdJL._SL500_AA240_.jpg</image>
+<artists>Bénabar,</artists>
+<label>Sony Music</label>
+<discs>1</discs>
+<releaseDate>5 décembre 2011</releaseDate>
+</music>
+<music>
+<title>Fou, peut-être</title>
+<asin>B005PV4CCG</asin>
+<price>15,99</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/41mzCC%2BhKJL._SL500_AA240_.jpg</image>
+<artists>Julien Clerc,</artists>
+<label>EMI</label>
+<discs>1</discs>
+<releaseDate>7 novembre 2011</releaseDate>
+</music>
+<music>
+<title>Silence On Tourne, On Tourne En Rond</title>
+<asin>B005LUV2W4</asin>
+<price>15,99</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51x3U6vbilL._SL500_AA240_.jpg</image>
+<artists>Thomas Dutronc,</artists>
+<label>Mercury Records</label>
+<discs>1</discs>
+<releaseDate>10 octobre 2011</releaseDate>
+</music>
+<music>
+<title>Pasión</title>
+<asin>B005N0BZRE</asin>
+<price>15,99</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/41ZO3q6j06L._SL500_AA240_.jpg</image>
+<artists>Roberto Alagna,</artists>
+<label>Deutsche Grammophon</label>
+<discs>1</discs>
+<releaseDate>31 octobre 2011</releaseDate>
+</music>
+<music>
+<title>À Cause D'Elles (Livre-Disque)</title>
+<asin>B005UHNUTQ</asin>
+<price>16,83</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51JPyJ8NL4L._SL500_AA240_.jpg</image>
+<artists>Alain Souchon,</artists>
+<label>Virgin Music</label>
+<discs>1</discs>
+<releaseDate>21 novembre 2011</releaseDate>
+</music>
+<music>
+<title>Soul II</title>
+<asin>B005P3NPXG</asin>
+<price>13,99</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51kGcLk6OUL._SL500_AA240_.jpg</image>
+<artists>Seal,</artists>
+<label>Warner Bros</label>
+<discs>1</discs>
+<releaseDate>7 novembre 2011</releaseDate>
+</music>
+<music>
+<title>Duos De Mes Chansons</title>
+<asin>B005KLN0QU</asin>
+<price>15,99</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/41YxRFuQ5OL._SL500_AA240_.jpg</image>
+<artists>Gerard Lenorman,</artists>
+<label>Play on</label>
+<discs>1</discs>
+<releaseDate>10 octobre 2011</releaseDate>
+</music>
+<music>
+<title>Selah Sue</title>
+<asin>B004L04YM0</asin>
+<price>12,99</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/41qRXMrsKqL._SL500_AA240_.jpg</image>
+<artists>Selah Sue,</artists>
+<label>Warner Music France</label>
+<discs>1</discs>
+<releaseDate>7 mars 2011</releaseDate>
+</music>
+<music>
+<title>Un Monstre À Paris (B.O.F.)</title>
+<asin>B005G4YE48</asin>
+<price>13,86</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51Sx-sfsWpL._SL500_AA240_.jpg</image>
+<artists>Vanessa Paradis,</artists>
+<label>Barclay</label>
+<discs>1</discs>
+<releaseDate>17 octobre 2011</releaseDate>
+</music>
+<music>
+<title>Best Of 2001-2011 (Digipack - 2 Titres Inédits)</title>
+<asin>B0060NNYFY</asin>
+<price>15,84</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/41wRI0cg2RL._SL500_AA240_.jpg</image>
+<artists>Mylène Farmer,</artists>
+<label>Universal</label>
+<discs>1</discs>
+<releaseDate>5 décembre 2011</releaseDate>
+</music>
+<music>
+<title>Bretonne - Édition Deluxe (Digipack - 7 Titres Inédits)</title>
+<asin>B005X0NRM0</asin>
+<price>16,98</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51sYnmfs2YL._SL500_AA240_.jpg</image>
+<artists>Nolwenn Leroy,</artists>
+<label>Mercury Records</label>
+<discs>1</discs>
+<releaseDate>28 novembre 2011</releaseDate>
+</music>
+<music>
+<title>Chimène Gospel &amp; Soul (Digipack)</title>
+<asin>B005WMF00Q</asin>
+<price>15,99</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/41CM6BnUR0L._SL500_AA240_.jpg</image>
+<artists>Chimene Badi,</artists>
+<label>Az</label>
+<discs>1</discs>
+<releaseDate>21 novembre 2011</releaseDate>
+</music>
+<music>
+<title>Gloria - Édition Collector (CD + DVD - 4 Titres Inédits)</title>
+<asin>B005Z4D2L0</asin>
+<price>16,98</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/41ypoSPADKL._SL500_AA240_.jpg</image>
+<artists>Les Pretres,</artists>
+<label>Tf1</label>
+<discs>2</discs>
+<releaseDate>21 novembre 2011</releaseDate>
+</music>
+<music>
+<title>Blonde</title>
+<asin>B005P3NOYG</asin>
+<price>14,99</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/51yd-1m-ibL._SL500_AA240_.jpg</image>
+<artists>Coeur De Pirate,</artists>
+<label>Barclay</label>
+<discs>1</discs>
+<releaseDate>14 novembre 2011</releaseDate>
+</music>
+<music>
+<title>Running Still</title>
+<asin>B005VINJLI</asin>
+<price>14,95</price>
+<devise>EUR</devise>
+<image>http://ecx.images-amazon.com/images/I/41G2I4NdNpL._SL500_AA240_.jpg</image>
+<artists>Charlie Winston,</artists>
+<label>Gemini Vid</label>
+<discs>1</discs>
+<releaseDate>21 novembre 2011</releaseDate>
+</music>
+</musics>

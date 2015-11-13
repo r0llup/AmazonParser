@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xdb="http://xmlns.oracle.com/xdb" xdb:storeVarrayAsTable="true" version="1.0">
+	<xs:element name="books" type="bookstype" xdb:defaultTable="XDBBOOKS"/>
+		<xs:complexType name="bookstype" xdb:SQLType="BOOKSTYPE">
+			<xs:sequence>
+				<xs:element name="book" type="booktype" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+		<xs:complexType name="booktype" xdb:SQLType="BOOKTYPE">
+			<xs:sequence>
+				<xs:element name="title" type="xs:string"/>
+				<xs:element name="asin" type="xs:string"/>
+				<xs:element name="price" type="xs:string"/>
+				<xs:element name="devise" type="xs:string"/>
+				<xs:element name="image" type="xs:string"/>
+				<xs:element name="authors" type="xs:string"/>
+				<xs:element name="publisher" type="xs:string"/>
+				<xs:element name="format" type="xs:string"/>
+				<xs:element name="pages" type="xs:string"/>
+				<xs:element name="releaseDate" type="xs:string"/>
+			</xs:sequence>
+		</xs:complexType>
+</xs:schema>
